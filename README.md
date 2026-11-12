@@ -30,10 +30,3 @@
 ![](https://github-readme-stats.shion.dev/api?username=shameworm&theme=calm_pink&hide_border=false&show_icons=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=shameworm&theme=calm_pink&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shameworm&theme=calm_pink&hide_border=false&layout=compact)
-
-## 🎓 Education
-- **Master's Degree, Computer Science**: National Technical University "Kharkiv Polytechnic Institute" (2025 – 2026)
-- **Bachelor's Degree, Computer Science**: V. N. Karazin Kharkiv National University (2019 – 2023)
-
-## 🌐 Languages
-🇺🇦 Ukrainian (Native) · 🇬🇧 English (Upper-Intermediate, B2)
